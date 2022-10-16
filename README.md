@@ -1,8 +1,9 @@
 # Snapshot-Discord-Bot
 A bot to iterate through a discord server and upload files in xml format with all data requested
-Command:Roles
-        Channels
-        Users
+
+CommandS:Roles |
+        Channels |
+        Users |
         RemoveDupes
         
 Commands give an XML file that can be downloaded with details of each requested dataset with all data nested in schema appropriate fashion
